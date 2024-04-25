@@ -2,7 +2,7 @@
   margin: 10px;
   width: 140px;
   position: absolute;
-  animation: anima 2.5s infinite ease-in-out;
+  
 }
 
 body {
@@ -10,18 +10,7 @@ body {
 }
 
 
-@keyframes anima {
-  0% {
-    margin-left: 10px;
-  }
-  50% {
-    margin-left: 40px;
-    margin-top: 30px;
-  }
-  100% {
-    margin-left: 10px;
-  }
-}
+
 
 
 .barButton {
@@ -109,7 +98,7 @@ body {
   margin-top: 114px;
   border-radius: 10px 100px / 200px;
 
-  animation: animaSearchIcon 7s infinite ease-in-out;
+  
 }
 
 .animaAroundSearch2 {
@@ -121,7 +110,7 @@ body {
   background-color: rgb(255, 0, 0);
   border: 3px rgb(188, 0, 0) solid;
 
-  animation: animaSearchIcon2 7s infinite ease-in-out;
+  
 } 
 
 @keyframes animaSearchIcon2 {

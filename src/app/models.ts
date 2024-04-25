@@ -54,7 +54,7 @@ export interface Team {
 }
 
 export const team:Team[] = [
-  {name: "Bayashat", age: 20, role: "Project Manager"},
-  {name: "Sanzhar", age: 19, role: "Back-End Developer"},
-  {name: "Serzhan", age: 19, role: "Front-End Developer"},
+  {name: "Aruzhan", age: 19, role: "Project Manager"},
+  {name: "Madina", age: 21, role: "Back-End Developer"},
+  {name: "Aldiyar", age: 21, role: "Front-End Developer"},
 ]
